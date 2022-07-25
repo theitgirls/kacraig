@@ -1,6 +1,5 @@
-h1 {color: grey}
-h2 {color: grey}
-h3 {color: grey}
-h4 {color: grey}
-h5 {color: grey}
-h6 {color: grey}
+body {
+    color: grey; 
+    font-family: "Times New Roman", Times, serif;
+
+}
