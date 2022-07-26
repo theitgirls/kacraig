@@ -21,3 +21,11 @@ nav {
 nav a:hover {
     background-color: grey;
 }
+
+div{
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 25px;
+}
