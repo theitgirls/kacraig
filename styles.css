@@ -4,3 +4,20 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
+
+nav{
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: rgb(243, 190, 190);
+}
+
+nav a {
+    color: white;
+}
+nav {
+    color: white;
+}
+
+nav a:hover {
+    background-color: grey;
+}
